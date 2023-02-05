@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./ch340-library/libs/CH34xUARTDriver.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ch340-library/libs/CH34xUARTDriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
